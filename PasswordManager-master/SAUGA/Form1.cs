@@ -45,7 +45,6 @@ namespace SAUGA
                     Console.WriteLine(lineValues[1]);
                     Console.WriteLine(lineValues[0]);
                 }
-
             } 
             ScryptEncoder encoder = new ScryptEncoder();
           
